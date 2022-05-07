@@ -1,1 +1,8 @@
-
+h1 {
+  font-family: "Roboto";
+  font-size: 60px;
+}
+p {
+  font-family: "Lato";
+  font-size: 30px;
+}
